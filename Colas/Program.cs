@@ -96,7 +96,7 @@ namespace Colas
                     case 5:
                         salir = false;
                         Console.Clear();
-                        Console.WriteLine("Good bye <3");
+                        Console.WriteLine("Good bye");
                         break;
                 }
 
